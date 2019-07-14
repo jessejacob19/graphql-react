@@ -1,0 +1,23 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "tutorial on graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessejacob19/graphql-react.git"
+  },
+  "author": "jesse collier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessejacob19/graphql-react/issues"
+  },
+  "homepage": "https://github.com/jessejacob19/graphql-react#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
